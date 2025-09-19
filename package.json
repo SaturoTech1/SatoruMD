@@ -17,7 +17,7 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@colors/colors": "^1.5.0",
         "@hapi/boom": "^10.0.0",
-         "@whiskeysockets/baileys": "github:VampirePrivate/VampBaileys",
+         "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
          "awesome-phonenumber":"^2.64.0",
        "@vreden/youtube_scraper": "^1.2.0",
       "axios":"^0.24.0",
