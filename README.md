@@ -1,15 +1,15 @@
 
-# Satoru MD
+# Flux Xd
 
 
-**Satoru MD** is an advanced WhatsApp bot built with Node.js. It's designed for easy deployment and fast interaction on WhatsApp.
+**Flux XdD** is an advanced WhatsApp bot built with Node.js. It's designed for easy deployment and fast interaction on WhatsApp.
 
 ---
 ### 1. Fork Repository
 
 Fork This Repository to your Github Account ☟:
 
-  <a href="https://github.com/SaturoTech1/SatoruMD/fork"><img title="Satoru MD" src="ttps://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"></a>
+  <a href="https://github.com/SaturoTech1/Flux-Xd/fork"><img title="Satoru MD" src="ttps://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"></a>
 
 ---
 
