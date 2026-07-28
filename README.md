@@ -9,7 +9,7 @@
 
 Fork This Repository to your Github Account ☟:
 
-  <a href="https://github.com/SaturoTech1/Flux-Xd/fork"><img title="Satoru MD" src="ttps://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"></a>
+  <a href="https://github.com/SaturoTech1/Flux-Xd/fork"><img title="Flux Xd" src="ttps://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"></a>
 
 ---
 
